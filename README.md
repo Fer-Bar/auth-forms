@@ -1,15 +1,11 @@
-# Avocado Forms 🥑
+<h1 align="center">BootStrap Forms 🥑</h1>
 
-## Formularios de Login Page y Register Page hechos con Bootstrap 4 y HTML con mucho amor ❤
+> These are two responsive forms built in Bootstrap, HTML and CSS.
+> 
+> You can grab any component and use it.
 
-<h1> Para verlos solo tienes que entrar a los links:</h1>
-<ul>
-  <li>
-    <p>Login Form</p>
-    https://fer-bar.github.io/forms-cools/login.html
-  </li>
-  <li>
-    <p>Register Form</p>
-    https://fer-bar.github.io/forms-cools
-  </li>
-</ul>
+## Login Page Form ❤
+If you wanna see the form in live just click [here](https://fer-bar.github.io/forms-cools/login.html).
+
+## Register Page Form ❤
+If you wanna see the form in live just click [here](https://fer-bar.github.io/forms-cools).
